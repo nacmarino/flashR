@@ -1,6 +1,6 @@
 # Introdução ao Manejo e Visualização de Dados em Linguagem R
 
-Este é um repositório com o conteúdo do curso de __Introdução ao Manejo e Visualização de Dados em Linguagem R__, oferecido por Nicholas dos A. C. Marino.
+Este é um repositório com o conteúdo do curso de __Introdução ao Manejo e Visualização de Dados em Linguagem R__, oferecido por Nicholas dos A. C. Marino aos alunos do Programa de Pós-Graduação em Ecologia da UNICAMP.
 
 ### Licença de Uso  
 
